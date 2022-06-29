@@ -1,0 +1,11 @@
+{
+  "name": "curso-de-as-ncronismo-en-javascript",
+  "version": "1.0.0",
+  "description": "Curso de asíncronismo en javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "christian.ramos0244@alumnos.udg.mx",
+  "license": "ISC"
+}
